@@ -1,13 +1,62 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Mr_Catcraft!;Java+%26+Python+Developer;Minecraft+Modding+Enthusiast" alt="Typing animation" />
+</p>
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<h3 align="center">A passionate backend developer and creator of tools for the Minecraft community</h3>
+
+<p align="center">
+  <a href="https://modrinth.com/user/Mr_Catcraft">
+    <img src="https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE4Ljg5NiA0LjU5NEMxNC45NjggMi4zNDIgMTAuMjI0IDIuNTEzIDYuNDQ3IDUuMjYxQzUuNzYxIDUuNuke2wgNS41OSA2LjY5IDYuMDUgNy40MTJMOS43MTcgMTMuNDhMOC4xNyAxNC4zMzNMNC45OCA4LjgyQzQuMDQzIDcuMzUzIDMuNTYgNS42NDQgMy41OTggMy45MDNDMy42MzYgMi4xNjIgNC4xOTUgMC40OCA1LjIgNC43ODY0NGUtMDVIMTguOEMxOS43MiA0Ljc4NjQ0ZS0wNSAyMC40OCAwLjc2IDIwLjQ4IDEuN1YxOC4zQzIwLjQ4IDE5LjIyIDE5LjcyIDIwIDE4LjggMjBINS4yQzQuMjggMjAgMy41MiAxOS4yMiAzLjUyIDE4LjNWMTQuNDEzTDEwLjA2NCAyMi40ODdDMTEuMjc0IDI0LjQzMyAxMy43MjYgMjQuNDMzIDE0LjkzNiAyMi40ODdMMjAuNDggMTQuNDEzVjExLjFMMTguODk2IDQuNTk0WiIgZmlsbD0iI0ZGRkZGRSIvPgo8L3N2Zz4K&logoColor=white" alt="Modrinth" />
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.youtube.com/@Mr_Catcraft">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCBMpc9qR7HrZtITKqO_pIdA?label=YouTube&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" alt="YouTube" />
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+</p>
+
+---
+
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+  <img src="https://img.shields.io/badge/Fabric-DFAA2C?style=for-the-badge&logo=fabric&logoColor=black" alt="Fabric" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats & Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Catcraft&theme=nord&hide_border=true&color=00FF41&line=00FF41&point=ffffff&area=true&bg_color=0d1117" alt="Activity Graph" />
+</p>
+
+---
+
+<h3 align="center">💻 My Development Rig</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>🖥️ CPU</b></td>
+    <td><code>Intel(R) Core(TM) i5-9300HF</code></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>🎮 GPU</b></td>
+    <td><code>NVIDIA GeForce GTX 1650</code></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>💾 RAM</b></td>
+    <td><code>8GB DDR4 2400MHz</code></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>⌨️ Main IDE</b></td>
+    <td><code>IntelliJ IDEA</code> + <code>PyCharm</code> + <code>VS Code</code></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>🔧 Key Tool</b></td>
+    <td><code>Minecraft Development Plugin</code> для IntelliJ</td>
+  </tr>
+</table>
