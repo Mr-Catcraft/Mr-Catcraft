@@ -21,10 +21,12 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+  <img src="https://img.shields.io/badge/PaperMC-000000?style=for-the-badge&logo=papermc&logoColor=white" alt="PaperMC" />
+  <img src="https://img.shields.io/badge/SpigotMC-FF9900?style=for-the-badge&logo=spigotmc&logoColor=white" alt="SpigotMC" />
   <img src="https://img.shields.io/badge/Fabric-DFAA2C?style=for-the-badge&logo=fabric&logoColor=black" alt="Fabric" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
 
 ---
@@ -57,6 +59,6 @@
   </tr>
   <tr>
     <td align="center" width="140"><b>🔧 Key Tool</b></td>
-    <td><code>Minecraft Development Plugin</code> для IntelliJ</td>
+    <td><code>Minecraft Development Plugin</code> for IntelliJ</td>
   </tr>
 </table>
