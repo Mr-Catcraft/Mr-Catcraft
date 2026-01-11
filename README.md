@@ -8,8 +8,8 @@
   <a href="https://modrinth.com/user/Mr_Catcraft">
     <img src="https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE4Ljg5NiA0LjU5NEMxNC45NjggMi4zNDIgMTAuMjI0IDIuNTEzIDYuNDQ3IDUuMjYxQzUuNzYxIDUuNuke2wgNS41OSA2LjY5IDYuMDUgNy40MTJMOS43MTcgMTMuNDhMOC4xNyAxNC4zMzNMNC45OCA4LjgyQzQuMDQzIDcuMzUzIDMuNTYgNS42NDQgMy41OTggMy45MDNDMy42MzYgMi4xNjIgNC4xOTUgMC40OCA1LjIgNC43ODY0NGUtMDVIMTguOEMxOS43MiA0Ljc4NjQ0ZS0wNSAyMC40OCAwLjc2IDIwLjQ4IDEuN1YxOC4zQzIwLjQ4IDE5LjIyIDE5LjcyIDIwIDE4LjggMjBINS4yQzQuMjggMjAgMy41MiAxOS4yMiAzLjUyIDE4LjNWMTQuNDEzTDEwLjA2NCAyMi40ODdDMTEuMjc0IDI0LjQzMyAxMy43MjYgMjQuNDMzIDE0LjkzNiAyMi40ODdMMjAuNDggMTQuNDEzVjExLjFMMTguODk2IDQuNTk0WiIgZmlsbD0iI0ZGRkZGRSIvPgo8L3N2Zz4K&logoColor=white" alt="Modrinth" />
   </a>
-  <a href="https://www.youtube.com/@Mr_Catcraft">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCBMpc9qR7HrZtITKqO_pIdA?label=YouTube&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" alt="YouTube" />
+  <a href="https://www.youtube.com/@Mr_CatcraftCode">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCMcuc6Nqopg81V9zErN3Qgw?label=YouTube&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" alt="YouTube" />
   </a>
 </p>
 
