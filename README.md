@@ -31,11 +31,23 @@
 
 ---
 
+<div align="center">
+
 <h3 align="center">📊 GitHub Stats & Activity</h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Catcraft&theme=nord&hide_border=true&color=00FF41&line=00FF41&point=ffffff&area=true&bg_color=0d1117" alt="Activity Graph" />
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Catcraft&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Catcraft&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mr-Catcraft&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mr-Catcraft&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mr-Catcraft&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mr-Catcraft&theme=github_dark)
+
+<br>
+
+
+</div>
 
 ---
 
