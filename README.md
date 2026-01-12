@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Mr_Catcraft!;Java+%26+Python+Developer;Minecraft+Modding+Enthusiast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Mr_Catcraft!;Java+%26+Python+Developer;Minecraft+Modding+Enthusiast;Crafting+code+like+it's+Minecraft." alt="Typing animation" />
 </p>
 
 <h3 align="center">A passionate backend developer and creator of tools for the Minecraft community</h3>
@@ -43,9 +43,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mr-Catcraft&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mr-Catcraft&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mr-Catcraft&theme=github_dark)
-
-<br>
-
 
 </div>
 
