@@ -5,17 +5,17 @@
 <h3 align="center">A passionate backend developer and creator of plugins/mods for Minecraft.</h3>
 
 <div align="center">
-    <a href="https://www.youtube.com/@Mr_Catcraft" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-block;">
-        <img src="https://github.com/Mr-Catcraft/Mr-Catcraft/blob/main/icons/YouTube_light.svg" alt="YouTube" width="50" height="50">
+    <a href="https://www.youtube.com/@Mr_Catcraft" target="_blank" style="margin: 0 10px; display: inline-block;">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
-    <a href="https://modrinth.com/user/Mr_Catcraft" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-block;">
-        <img src="https://github.com/Mr-Catcraft/Mr-Catcraft/blob/main/icons/Modrinth_light.svg" alt="Modrinth" width="50" height="50">
+    <a href="https://modrinth.com/user/Mr_Catcraft" target="_blank" style="margin: 0 10px; display: inline-block;">
+        <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth">
     </a>
-    <a href="https://steamcommunity.com/id/Mr_Catcraft/" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-block;">
-        <img src="https://github.com/Mr-Catcraft/Mr-Catcraft/blob/main/icons/Steam_light.svg" alt="Steam" width="50" height="50">
+    <a href="https://steamcommunity.com/id/Mr_Catcraft/" target="_blank" style="margin: 0 10px; display: inline-block;">
+        <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
     </a>
-    <a href="https://ru.namemc.com/profile/Mr_Catcraft" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-block;">
-        <img src="https://github.com/Mr-Catcraft/Mr-Catcraft/blob/main/icons/Minecraft_light.svg" alt="Minecraft" width="50" height="50">
+    <a href="https://ru.namemc.com/profile/Mr_Catcraft" target="_blank" style="margin: 0 10px; display: inline-block;">
+        <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft">
     </a>
 </div>
 
